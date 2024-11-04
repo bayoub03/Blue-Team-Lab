@@ -2,3 +2,16 @@ List of network requirements, and VMs
 
 This diagram contains all the VMs I am planning to include, along with detailed information like IP addresses, VLANs, subnets, etc.
 
+VMs needed:
+
+- Firewall
+- Malware Analysis (MA) VMs (one for Linux and one for Windows)
+- Windows 7 host
+- Windows 10 host
+- Windows Server AD
+- Linux Server(s)
+- Kali Linux
+- DFIR
+- SIEM
+- Vulnerability Scanner
+
