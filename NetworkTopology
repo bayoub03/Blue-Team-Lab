@@ -15,3 +15,15 @@ VMs needed:
 - SIEM
 - Vulnerability Scanner
 
+Services that will be implemented:
+
+- Antivirus
+- EDR/XDR
+- Proxy
+- Mail Server
+- AD Services
+- IDS/IPS
+- Monitoring
+- Docker
+- Database (not sure yet what kind of, but will think about it)
+
